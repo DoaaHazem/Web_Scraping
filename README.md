@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="400" alt="web_scraping_banner" src="https://github.com/user-attachments/assets/6c1572c8-0e2b-473c-8f88-784becfff27f" />
+</p>
+
 # Web Scraping Task
 
 This project was developed as part of a task assigned by the **Digital Egypt Pioneers Initiative (DEPI)**, under the **Ministry of Communications and Information Technology (MCIT), Egypt**.
